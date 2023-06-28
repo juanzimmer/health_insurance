@@ -5,5 +5,3 @@ Este repositório contém o código e os arquivos relacionados a um projeto de C
 A rede de seguradora de plano hospitalar conduziu uma pesquisa em sua base de dados para identificar quais clientes estariam interessados em adquirir um seguro automotivo, como uma segunda compra. Com base nos dados históricos dos clientes, como idade, histórico de sinistros, tipo de seguro atual, entre outros, foi construído um modelo de previsão utilizando algoritmos de aprendizado de máquina, como regressão logística ou árvore de decisão. O modelo treinado é capaz de identificar os clientes com maior propensão a comprar um seguro automotivo.
 
 Além disso, foi desenvolvida uma ordenação da base de dados, onde os clientes mais propensos a comprar são colocados no início da lista, facilitando o trabalho da equipe de marketing ao entrar em contato com esses clientes.
-
-Estrutura do Repositório
